@@ -1,0 +1,1 @@
+jre\bin\java -classpath bin\neo4j-desktop-2.1.5.jar org.neo4j.shell.StartClient -file C:\Users\Somasundaram\Desktop\BigDataProject\Neo4j_Commands\Query.cql > "C:\Users\Somasundaram\Desktop\BigDataProject\edgelist_unprocessed.txt"
